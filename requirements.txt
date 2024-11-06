@@ -1,0 +1,9 @@
+streamlit
+pydeck
+pandas
+plotly
+numpy
+scikit-learn
+wordcloud
+matplotlib
+extra-streamlit-components
